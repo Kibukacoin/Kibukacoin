@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Kibukacoin
+- 👀 I’m interested in developing an open source crypto currency to be used globally
+- 🌱 I’m currently learning about the blockchain
+- 💞️ I’m looking to collaborate on this project
+- 📫 How to reach me research@kibukacoin.org
